@@ -2,5 +2,6 @@ data/CODEX_LN/CODEX_LN_tiles/
 code/.ipynb_checkpoints/
 data/CODEX_LN/CODEX_LN_mask.tif
 data/CODEX_LN/CODEX_LN_image.tif
+data/CODEX_LN/CODEX_LN_VAE_tiles/
 results/.ipynb_checkpoints/
 results/OT_embeddings.pkl
