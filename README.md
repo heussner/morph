@@ -19,8 +19,9 @@ Pytorch 2.7.0 environment on Rivanna
 # Paper overview
 ***Figure 1***: Spatial distribution of normalized marker pixel intensity predicts mean pixel intensity
 * ***1A***: conceptual graphic of normalizing intensity per cell
+  <img src="results/3D_surfacePlot.png" width="600" height="300"/>
 * ***1B***: Heatmap of marker prediction correlations
-  ![image](results/PearsonCorrelation.png)
+  <img src="results/PearsonCorrelation.png" width="700" height="300" />
 * ***1C***: Image feature correlations with mean intensity
 
 ***Figure 2***: morph uses morphological anchors to normalize marker expression across batches
